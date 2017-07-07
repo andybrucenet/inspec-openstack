@@ -1,0 +1,7 @@
+name: inspec-openstack
+title: InSpec OpenStack Resource Pack
+maintainer: CloudraticSolutions LLC
+copyright: andy@softwareab.net
+copyright_email: andy@softwareab.net
+license: Apache 2 license
+version: 1.0.0
